@@ -11,4 +11,7 @@
         <hr>
     @endif
    @endforeach
+
+   <h4>Navigation</h4>
+   {{$posts->links()}}
 @endsection
