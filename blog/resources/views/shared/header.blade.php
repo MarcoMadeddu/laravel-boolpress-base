@@ -14,6 +14,7 @@
                     <li><a href="{{route ('home')}}">Home</a></li>
                     <li><a href="{{route ('posts.index')}}">Archive</a></li>
                     <li><a href="{{route ('users.index')}}">Users</a></li>
+                    <li><a href="{{route ('feedbacks.index')}}">Feedback</a></li>
                 </ul>
             </div>
         </header>

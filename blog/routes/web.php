@@ -23,3 +23,6 @@ Route::resource('users' , 'UserController');
 
 //post
 Route::resource('posts' , 'PostController');
+
+//feedback
+Route::resource('feedbacks' , 'FeedbackController');
