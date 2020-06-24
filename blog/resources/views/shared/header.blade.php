@@ -15,6 +15,7 @@
                     <li><a href="{{route ('posts.index')}}">Archive</a></li>
                     <li><a href="{{route ('users.index')}}">Users</a></li>
                     <li><a href="{{route ('feedbacks.index')}}">Feedback</a></li>
+                    <li><a href="{{route ('posts.create')}}">Create new post</a></li>
                 </ul>
             </div>
         </header>
